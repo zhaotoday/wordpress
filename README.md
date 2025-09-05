@@ -1,2 +1,2 @@
-# wordpress
-WordPress 笔记
+# WorldPress
+WorldPress 笔记
